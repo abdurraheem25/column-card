@@ -35,7 +35,7 @@ While working on this project, I practised:
 ## Project Links
 
 - **Live Site:** Add your deployed website URL here.
-- **Frontend Mentor Solution:** Add your submitted solution URL here.
+- **Frontend Mentor Solution:https://www.frontendmentor.io/solutions/nft-card-30bx1HsVFd
 
 ## Getting Started
 
